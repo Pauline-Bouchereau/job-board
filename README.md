@@ -1,4 +1,4 @@
-#💼 📊 JOB BOARD
+# 💼 📊 JOB BOARD
 
 **Need a new job ?** Consult job offers on this simple job board !
 
