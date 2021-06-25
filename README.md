@@ -6,7 +6,7 @@
 
 👉 Netlify Link to see the live version [HERE](https://job-board-pb.netlify.app/)
 
-![Screenshot of the website](./assets/jobboard.png)
+![Screenshot of the website](./src/assets/jobboard.png)
 
 _Made in 2021 @ Le Reacteur_
 
