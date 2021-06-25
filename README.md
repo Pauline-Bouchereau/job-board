@@ -6,18 +6,18 @@
 
 👉 Netlify Link to see the live version [HERE](https://job-board-pb.netlify.app/)
 
-![Screenshot of the website](./assets/img/marmiton.png)
+![Screenshot of the website](./assets/jobboard.png)
 
 _Made in 2021 @ Le Reacteur_
 
 ### ⚙️ Main functionalities :
 
-Create a one-page website using React.JS 
+Create a one-page website using React.JS
 
 ### 🔧 Stack
 
-✔️ React.JS   
-✔️ Javascript   
+✔️ React.JS  
+✔️ Javascript  
 ✔️ HTML 5  
 ✔️ CSS 3
 
@@ -33,7 +33,7 @@ cd job-board
 #### Install packages :
 
 ```javascript
-yarn
+yarn;
 ```
 
 #### When installation is complete :
